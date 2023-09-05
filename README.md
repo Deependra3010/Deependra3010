@@ -1,5 +1,5 @@
 # Hi there, I'm Deependra👋
-### 🔭 I’m currently working with [Odoo](https://github.com/odoo/odoo)
+### 🔭 I’m currently working with [Odoo](https://github.com/odoo/odoo).
 
 <p>
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=deependra3010&show_icons=true&theme=radical"/>
