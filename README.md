@@ -2,7 +2,7 @@
 ### 🔭 I’m currently working with [Odoo](https://github.com/odoo/odoo).
 
 <p>
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=deependra3010&show_icons=true&theme=radical"/>
+<!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=deependra3010&show_icons=true&theme=radical"/> -->
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependra3010&layout=compact"/>
 </p>
 
